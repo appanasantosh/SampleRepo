@@ -4,3 +4,4 @@ from online to local get it through pull cmd
 this is edited today.
 by pulling this remote into local you will get updated one
 
+merge it to local master and from there to remote new branch and new branch to master remote
